@@ -1,0 +1,16 @@
+<category id="catItpk">
+  <block type="itpk_ask">
+    <value name="question">
+      <block type="text">
+        <field name="TEXT">今天东莞天气如何？</field>
+      </block>
+    </value>
+  </block>
+  <block type="console">
+    <value name="console">
+      <block type="itpk_answer"></block>
+    </value>
+  </block>
+  <block type="itpk_clear">
+  </block>
+</category>

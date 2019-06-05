@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>茉莉机器人 API 测试</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+    <script>
+        AskItpk = function (question) {
+            $.post("http://i.itpk.cn/api.php", {
+                'question': question
+            }, function (data) {
+                console.log("数据：" + data);
+            });
+        }
+        AskItpk('东莞天气如何？');
+    </script>
+</body>
+
+</html>

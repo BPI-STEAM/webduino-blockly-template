@@ -1,0 +1,23 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="itpk_ask" id="T?FyvoA[6?k|}eo?=+OK" x="88" y="38">
+    <value name="question">
+      <block type="text" id="6@rG{I3N-*lJ-Mhk(b5O">
+        <field name="TEXT">你是？</field>
+      </block>
+    </value>
+    <statement name="callback">
+      <block type="console" id="a}XjMJSAI!8}M{kzD]w[">
+        <value name="console">
+          <block type="itpk_answer" id="mf{)PkbxP|)NF4u8Z[:X"></block>
+        </value>
+        <next>
+          <block type="demo_show_text" id="CMP)v_%{X2)S~,K_iK0q">
+            <value name="show_">
+              <block type="itpk_answer" id="moT@soH[zrAWHP7Cx~mf"></block>
+            </value>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+</xml>

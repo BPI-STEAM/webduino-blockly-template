@@ -1,0 +1,20 @@
+{
+  "types": [
+    "itpk_ask",
+    "itpk_answer",
+    "itpk_clear"
+  ],
+  "category": "itpk",
+  "scripts": [
+    "https://cdn.jsdelivr.net/gh/yarrem/stringFormat.js/format.js",
+    "itpk-blockly.js",
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "itpk.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}
