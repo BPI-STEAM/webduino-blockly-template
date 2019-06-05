@@ -6,7 +6,7 @@
 
 ## webduino blockly address
 
-插件地址：`https://bpi-steam.github.io/webduino-blockly-template/blockly.json`
+插件地址：`https://bpi.org.cn/webduino-blockly-template/blockly.json`
 
 ## usage
 
