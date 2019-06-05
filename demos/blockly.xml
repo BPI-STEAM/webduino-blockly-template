@@ -2,7 +2,7 @@
   <block type="itpk_ask" id="T?FyvoA[6?k|}eo?=+OK" x="88" y="38">
     <value name="question">
       <block type="text" id="6@rG{I3N-*lJ-Mhk(b5O">
-        <field name="TEXT">你是？</field>
+        <field name="TEXT">今天东莞天气如何？</field>
       </block>
     </value>
     <statement name="callback">
