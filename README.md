@@ -10,7 +10,7 @@ Using classic JavaScript development, you can complete the development of dynami
 
 ## Help docs
 
-[Usage Webduino Blockly]()
+[Usage Webduino Blockly](https://doc.bpi.org.cn/zh_CN/latest/bpi-web/modules/basic.html)
 
 ## Address
 
@@ -40,7 +40,7 @@ load the file ([demos/library.xml](demos/library.xml))
 
 查阅 API 地址：
 
-http://www.itpk.cn/robot.php
+[API Docs](http://www.itpk.cn/robot.php)
 
 ## Demo
 
