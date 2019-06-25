@@ -18,7 +18,7 @@ Using classic JavaScript development, you can complete the development of dynami
 
 Load the plug-in first, then continue.
 
-`https://bpi.org.cn/webduino-blockly-template/blockly.json`
+`https://bpi-steam.com/webduino-blockly-template/blockly.json`
 
 ## Usage
 
