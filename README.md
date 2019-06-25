@@ -10,7 +10,7 @@ Using classic JavaScript development, you can complete the development of dynami
 
 ## Help docs
 
-[Usage Webduino Blockly](https://doc.bpi.org.cn/zh_CN/latest/bpi-web/modules/basic.html)
+[Usage Webduino Blockly](https://doc.bpi-steam.com/zh_CN/latest/bpi-web/modules/basic.html)
 
 ## Address
 
